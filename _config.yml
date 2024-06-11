@@ -62,21 +62,21 @@ content:
         sub_title: Sales Taking Order
         caption: 2020-2021
         description:  # this will include new lines to allow paragraphs
-            layout: list
+            -layout: list
             content: Bertanggung jawab untuk menerima pesanan dari pelanggan melalui telepon, email, dan platform online.
-            layout: list
+            -layout: list
             content: Memproses pesanan secara akurat dan efisien, memastikan semua detail pesanan lengkap dan sesuai dengan keinginan pelanggan.
-            layout: list
+            -layout: list
             content: Memberikan informasi produk dan layanan kepada pelanggan, menjawab pertanyaan mereka dengan jelas dan informatif.
-            layout: list
+            -layout: list
             content: Membangun hubungan yang baik dengan pelanggan, menjaga komunikasi yang aktif dan memastikan kepuasan mereka.
-            layout: list
+            -layout: list
             content: Mencapai target penjualan yang ditetapkan dengan konsisten melalui strategi penjualan yang efektif.
-            layout: list
+            -layout: list
             content: Mengelola database pelanggan, memperbarui informasi kontak dan riwayat pembelian mereka.
-            layout: list
+            -layout: list
             content: Melakukan analisis data penjualan untuk mengidentifikasi tren dan peluang baru.
-            layout: list
+            -layout: list
             content: Bekerja sama dengan tim sales dan marketing untuk mencapai tujuan perusahaan.
 
             
@@ -91,15 +91,15 @@ content:
         caption: 2016 - 2022
         sub_title: ST Teknik Elektro
         description: 
-          layout: list
+          -layout: list
           content: Program studi Teknik Elektro di Universitas Jember membekali saya dengan pengetahuan dan skill yang kuat dalam bidang elektronika, elektromagnetisme, sistem kontrol, dan sistem energi.
-          layout: list
+          -layout: list
           content: Saya memiliki pemahaman yang mendalam tentang prinsip-prinsip dasar kelistrikan dan elektronika, dan saya mampu menerapkan pengetahuan tersebut untuk menyelesaikan berbagai permasalahan teknis.
-          layout: list
+          -layout: list
           content: Saya memiliki skill analitis dan problem solving yang excellent, dan saya mampu berpikir kritis dan kreatif untuk menemukan solusi yang efektif.
-          layout: list
+          -layout: list
           content: Saya memiliki skill komunikasi dan interpersonal yang baik, dan saya mampu bekerja sama dengan tim dengan baik untuk mencapai tujuan bersama.
-          layout: list
+          -layout: list
           content: Saya memiliki pengalaman dalam melakukan penelitian dan pengembangan di bidang Teknik Elektro, dan saya mampu bekerja secara mandiri dan bertanggung jawab.
           
 
