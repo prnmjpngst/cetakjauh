@@ -61,23 +61,15 @@ content:
         # link_text: boringcompany.com
         sub_title: Sales Taking Order
         caption: 2020-2021
-        description:  # this will include new lines to allow paragraphs
-            -layout: list
-            content: Bertanggung jawab untuk menerima pesanan dari pelanggan melalui telepon, email, dan platform online.
-            -layout: list
-            content: Memproses pesanan secara akurat dan efisien, memastikan semua detail pesanan lengkap dan sesuai dengan keinginan pelanggan.
-            -layout: list
-            content: Memberikan informasi produk dan layanan kepada pelanggan, menjawab pertanyaan mereka dengan jelas dan informatif.
-            -layout: list
-            content: Membangun hubungan yang baik dengan pelanggan, menjaga komunikasi yang aktif dan memastikan kepuasan mereka.
-            -layout: list
-            content: Mencapai target penjualan yang ditetapkan dengan konsisten melalui strategi penjualan yang efektif.
-            -layout: list
-            content: Mengelola database pelanggan, memperbarui informasi kontak dan riwayat pembelian mereka.
-            -layout: list
-            content: Melakukan analisis data penjualan untuk mengidentifikasi tren dan peluang baru.
-            -layout: list
-            content: Bekerja sama dengan tim sales dan marketing untuk mencapai tujuan perusahaan.
+        description: | # this will include new lines to allow paragraphs
+            - Bertanggung jawab untuk menerima pesanan dari pelanggan melalui telepon, email, dan platform online.
+            - Memproses pesanan secara akurat dan efisien, memastikan semua detail pesanan lengkap dan sesuai dengan keinginan pelanggan.
+            - Memberikan informasi produk dan layanan kepada pelanggan, menjawab pertanyaan mereka dengan jelas dan informatif.
+            - Membangun hubungan yang baik dengan pelanggan, menjaga komunikasi yang aktif dan memastikan kepuasan mereka.
+            - Mencapai target penjualan yang ditetapkan dengan konsisten melalui strategi penjualan yang efektif.
+            - Mengelola database pelanggan, memperbarui informasi kontak dan riwayat pembelian mereka.
+            - Melakukan analisis data penjualan untuk mengidentifikasi tren dan peluang baru.
+            - Bekerja sama dengan tim sales dan marketing untuk mencapai tujuan perusahaan.
 
             
             
@@ -90,17 +82,12 @@ content:
         title: Universitas Jember
         caption: 2016 - 2022
         sub_title: ST Teknik Elektro
-        description: 
-          -layout: list
-          content: Program studi Teknik Elektro di Universitas Jember membekali saya dengan pengetahuan dan skill yang kuat dalam bidang elektronika, elektromagnetisme, sistem kontrol, dan sistem energi.
-          -layout: list
-          content: Saya memiliki pemahaman yang mendalam tentang prinsip-prinsip dasar kelistrikan dan elektronika, dan saya mampu menerapkan pengetahuan tersebut untuk menyelesaikan berbagai permasalahan teknis.
-          -layout: list
-          content: Saya memiliki skill analitis dan problem solving yang excellent, dan saya mampu berpikir kritis dan kreatif untuk menemukan solusi yang efektif.
-          -layout: list
-          content: Saya memiliki skill komunikasi dan interpersonal yang baik, dan saya mampu bekerja sama dengan tim dengan baik untuk mencapai tujuan bersama.
-          -layout: list
-          content: Saya memiliki pengalaman dalam melakukan penelitian dan pengembangan di bidang Teknik Elektro, dan saya mampu bekerja secara mandiri dan bertanggung jawab.
+        description: |
+          - Program studi Teknik Elektro di Universitas Jember membekali saya dengan pengetahuan dan skill yang kuat dalam bidang elektronika, elektromagnetisme, sistem kontrol, dan sistem energi.
+          - Saya memiliki pemahaman yang mendalam tentang prinsip-prinsip dasar kelistrikan dan elektronika, dan saya mampu menerapkan pengetahuan tersebut untuk menyelesaikan berbagai permasalahan teknis.
+          - Saya memiliki skill analitis dan problem solving yang excellent, dan saya mampu berpikir kritis dan kreatif untuk menemukan solusi yang efektif.
+          - Saya memiliki skill komunikasi dan interpersonal yang baik, dan saya mampu bekerja sama dengan tim dengan baik untuk mencapai tujuan bersama.
+          - Saya memiliki pengalaman dalam melakukan penelitian dan pengembangan di bidang Teknik Elektro, dan saya mampu bekerja secara mandiri dan bertanggung jawab.
           
 
   - title: Keterampilan
